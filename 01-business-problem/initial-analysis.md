@@ -61,13 +61,13 @@ New information is delivered by Customer Service:
 ## Investigation approach
 Ask yourself the questions
 
-Q1: What do you think the actual problem might be?
-A1: As a BA, I would document it like this:
+1.Q1: What do you think the actual problem might be?
+1.A1: As a BA, I would document it like this:
     Potential area for investigation: Determine whether declined transactions are associated with specific countries or currencies.
 
 
-Q2: What would you investigate next?
-A2: Investigate the transaction patterns
+2.Q2: What would you investigate next?
+2.A2: Investigate the transaction patterns
     Compare the affected transactions:
 	- Switzerland vs other countries
 	- CHF vs other currencies
