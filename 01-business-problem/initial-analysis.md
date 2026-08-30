@@ -50,3 +50,36 @@ Further investigation is required to understand the problem and determine whethe
 
 These assumptions need to be validated during the next stages of the analysis.
 
+## After initial assumptions
+New information is delivered by Customer Service: 
+	'''During the last three months, Customer Service received 450 complaints related to declined ATM withdrawals.
+	The complaints occurred in Switzerland and other European countries.
+	The customers used ABC Bank debit cards.
+	Most customers said they did not understand why their withdrawal was declined.
+	Customer Service does not currently have easy access to the technical reason for the declined transaction.'''
+
+## Investigation approach
+Ask yourself the questions
+
+Q1: What do you think the actual problem might be?
+A1: As a BA, I would document it like this:
+    Potential area for investigation: Determine whether declined transactions are associated with specific countries or currencies.
+
+
+Q2: What would you investigate next?
+A2: Investigate the transaction patterns
+    Compare the affected transactions:
+	- Switzerland vs other countries
+	- CHF vs other currencies
+	- different countries
+	- different ATM operators
+	- different dates
+	- different debit cards
+	- different transaction amounts
+
+    Decline reasons
+	What reason was recorded when each transaction was declined?
+
+
+     
+
