@@ -30,7 +30,6 @@ The project will be developed step by step and will include:
 
 ## Learning Approach
 This project is designed as a practical learning exercise.
-
 Each stage will be completed through analysis, guided practice and review.
-
 The focus is not only on creating documentation, but on learning how a Business Analyst approaches a business problem.
+
